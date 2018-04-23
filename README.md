@@ -5,7 +5,7 @@ Product of https://www.youtube.com/watch?v=rdGpT1pIJlw
 You will need Android Studio and a Android Emulator.
 
 # Function
-This is a simple app that takes two inputted numbers, adds them, and outputs the result.
+This is an app that displays a list of items, and switches to a new activity that contains a picture when the items in the list are clicked.
 
 Creating the app helped me familarize myself with:
 - Using ListViews
